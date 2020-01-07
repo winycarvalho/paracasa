@@ -1,0 +1,11 @@
+.conteudo { background: #f3f5f6;}
+
+.titulo { font-size: 17px; color: #3598db; font-family: Georgia,"Times New Roman",Times,serif; font-weight: normal; margin-top: 21px; margin-bottom: 10.5px;}
+
+.horario { font-size: 15px; margin: 0 0 10.5px; }
+
+.campos { border-top: 2px solid #3598db; margin-bottom: 5px; }
+
+.campo-nome { width: 100px; padding: 15px; background: white; border: 0 none; border-bottom: 1px solid #e3e3e3; font-size: 13px; font-weight: bold; }
+.campo-container { background: #FFFFFF; border: 0 none;}
+.campo-input { background: rgb(232, 240, 254); width: 270px; padding: 7px; font-size: 12px; border: 1px #CCCCCC solid; }
